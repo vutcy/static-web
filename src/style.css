@@ -4,6 +4,10 @@ body{
   font-family: 'Comic Sans MS';
 }
 
+a {
+  color: #FFFFFF;
+}
+
 .text-center {
   text-align: center !important;
 }
